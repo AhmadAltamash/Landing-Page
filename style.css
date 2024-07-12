@@ -1,0 +1,260 @@
+@font-face {
+    font-family: kuchbhi;
+    src: url(./Font/NeueMachina-Light.otf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: kuchbhi ;
+}
+body{
+    overflow-x: hidden;
+}
+.page1{
+    height: 100%;
+    width: 100%;
+}
+nav{
+  padding: 35px 140px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav h1{
+
+    font-size: 40px;
+    font-weight: 900;
+}
+h1 i{
+    display: inline-block;
+    transform: rotate(45deg);
+}
+.part2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.part2 h4{
+    font-size: 17px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.part2 button{
+    padding: 15px 30px;
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 17px;
+    cursor: pointer;
+}
+.part2 button:hover{
+    background-color: black;
+    color: white;
+    transition: all ease 0.4s;
+}
+.center{
+   padding: 70px 140px;
+    height: 65%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.center-part1{
+    height: 100%;
+    width: 40%;
+}
+.center-part1 h1{
+    font-size: 50px;
+}
+.center-part1 p{
+    font-size: 16px;
+    width: 90%;
+    margin: 10px 0px;
+}
+.b1{
+    margin: 10px 0px;
+    padding: 15px 20px;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: black;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    cursor: pointer;
+}
+.b1:hover{
+    background-color: #fff;
+    color: black;
+    transition: all ease 0.4s;
+}
+.center-part2{
+
+    height: 100%;
+    width: 60%;
+    position: relative;
+}
+.center-part2 img{
+    width: 500px;
+    position: absolute;
+    right: 0;
+}
+.page-bottom{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px 70px;
+}
+.amz{
+   height: 40px;
+   width: 130px;
+}
+.drib{
+    height: 120px;
+    width: 150px;
+}
+.notion{
+    height: 100px;
+    width: 180px;
+}
+.swig{
+    height: 130px;
+    width: 170px;
+}
+.zoom{
+    height: 140px;
+    width: 130px;
+}
+.page2{
+    height: 100%;
+    padding: 35px 140px;
+}
+.page2 .services{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.services h3{
+    font-size: 25px;
+    padding: 3px;
+    color: rgb(95, 91, 91);
+    background-color: #c2f765;
+}
+.services p{
+    padding-left: 30px;
+    width: 50%;
+}
+.cards{
+    height: 88%;
+    width: 100%;
+    padding: 50px 0px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+.card{
+    flex-shrink: 0;
+    height: 40%;
+    width: 48%;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px;
+    display: flex;
+}
+.card:hover{
+    box-shadow: 10px 10px;
+    transition: all ease 0.2s;
+}
+.c1 h2{
+    color: rgb(95, 91, 91);
+    background-color: #c2f765;
+    margin: 30px;
+    border-radius: 8px;
+    width: 60%;
+    height: 34%;
+}
+.c1{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.c1 h4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 0px 10px 30px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.c1 h4 i{
+    padding: 4px;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+.c2 h2{
+    width: 45%;
+}
+.black{
+    color: white;
+    background-color: rgb(59, 56, 56);
+    box-shadow: 5px 5px 0px black;
+}
+.black:hover{
+    box-shadow: 10px 10px 0px black;
+    transition: all ease 0.2s;
+}
+.black .c1 h2{
+    color: black;
+    background-color: #fff;
+} 
+.black .c1 h4 i{
+    background-color: white;
+    color: black;
+}
+.page3{
+    height: 60%;
+}
+.container{
+    padding: 0px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 140px;
+    background-color: rgba(128, 128, 128, 0.274);
+    border-radius: 20px;
+    height: 40vh;
+}
+.container img{
+    height: 50vh;
+}
+.par h3{
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+.par p{
+    width: 60%;
+    margin: 15px 0px 20px 0px;
+}
+footer{
+    background-color: rgba(57, 56, 56, 0.711);
+    color: white;
+    font-size: 22px;
+    margin: 60px 140px 0px 140px;
+    padding: 20px 0px;
+    border-radius: 20px 20px 0px 0px;
+    text-align: center;
+    font-weight: 900;
+}
