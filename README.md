@@ -50,31 +50,37 @@ Make sure you have a modern web browser installed (e.g., Chrome, Firefox, Edge).
    cd wizardz-website
 
 ### Usage
+
 Simply open the index.html file in your web browser to view the website locally.
 
 ### Customization
-You can customize the content, images, and styles as needed:
 
+You can customize the content, images, and styles as needed:
 HTML: Modify the index.html file for content changes.
 CSS: Update the style.css file for styling changes.
 JavaScript: Edit the script.js file for animation and interactivity changes.
-### Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
+### Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 If you have suggestions for improvements, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
 ### Fork the Project
+
 Create your Feature Branch (git checkout -b feature/AmazingFeature)
 Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
+
 ### License
+
 Distributed under the MIT License. See LICENSE for more information.
 
 ### Acknowledgements
+
 GSAP (GreenSock Animation Platform)<br>
 Remix Icon<br>
 Free Logo PNG<br>
 ALtamash Ahmad<br>
-<hr>
+
 © 2024 Altamash Ahmad. All rights reserved.
