@@ -37,11 +37,11 @@ WizardZ is a fictional digital marketing agency that provides a variety of servi
 
 To get a local copy up and running, follow these simple steps:
 
-### Prerequisites
+## Prerequisites
 
 Make sure you have a modern web browser installed (e.g., Chrome, Firefox, Edge).
 
-### Installation
+## Installation
 
 1. Clone the repo:
    ```sh
@@ -49,34 +49,34 @@ Make sure you have a modern web browser installed (e.g., Chrome, Firefox, Edge).
 2. Navigate to the project directory:
    cd wizardz-website
 
-### Usage
+## Usage
 
 Simply open the index.html file in your web browser to view the website locally.
 
-### Customization
+## Customization
 
 You can customize the content, images, and styles as needed:
 HTML: Modify the index.html file for content changes.
 CSS: Update the style.css file for styling changes.
 JavaScript: Edit the script.js file for animation and interactivity changes.
 
-### Contributing
+## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 If you have suggestions for improvements, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
-### Fork the Project
+## Fork the Project
 
 Create your Feature Branch (git checkout -b feature/AmazingFeature)
 Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
-### License
+## License
 
 Distributed under the MIT License. See LICENSE for more information.
 
-### Acknowledgements
+## Acknowledgements
 
 GSAP (GreenSock Animation Platform)<br>
 Remix Icon<br>
