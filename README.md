@@ -72,9 +72,9 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE for more information.
 
 ### Acknowledgements
-GSAP (GreenSock Animation Platform)
-Remix Icon
-Free Logo PNG
-ALtamash Ahmad
+GSAP (GreenSock Animation Platform)<br>
+Remix Icon<br>
+Free Logo PNG<br>
+ALtamash Ahmad<br>
 <hr>
 © 2024 Altamash Ahmad. All rights reserved.
