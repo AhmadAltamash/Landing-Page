@@ -81,6 +81,5 @@ Distributed under the MIT License. See LICENSE for more information.
 GSAP (GreenSock Animation Platform)<br>
 Remix Icon<br>
 Free Logo PNG<br>
-ALtamash Ahmad<br>
 
 © 2024 Altamash Ahmad. All rights reserved.
